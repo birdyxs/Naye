@@ -71,7 +71,7 @@ body {
 
         .bookm { width: 20px; height: 20px; position: absolute; top: 6px; right: 6px; text-align: right; font-size: 15px; color: #df9bb8; }
 
-        .sides { width: 240px; height: 65px; position: absolute; bottom: 26px; right: 30px; font-size: 10.5px; color:#bebebe; line-height: 100%; }
+        .sides { width: 240px; height: 65px; position: absolute; bottom: 26px; right: 30px; font-size: 11px; color:#bebebe; line-height: 100%; }
 
         .title { width: 320px; height: 50px; position: absolute; left: 0; top: 15px; font-family: poppins; font-weight: 800; color: #0f0e0e; font-size: 32px; letter-spacing: -3px; text-transform: none; display: flex; align-items: center; justify-content: center; }
         .lowbar { width: 100%; height: 15px; position: absolute; bottom: 3px; left: 0; display: flex; align-items: center; justify-content: center; z-index: 99; }
