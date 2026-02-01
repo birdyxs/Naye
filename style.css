@@ -63,15 +63,15 @@ body {
         .ftc a { color: #df9bb8; transition: 0.3s; text-decoration: none; }
         .ftc a:hover { text-shadow: 0 0 8px #df9bb8; transform: scale(1.3); }
 
-        .sibbar { width: 320px; height: 100px; background: #0a0a0a; position: absolute; top: 340px; border-top: 1px solid #232323; border-bottom: 1px solid #232323; }
+        .sibbar { width: 320px; height: 118px; background: #0a0a0a; position: absolute; top: 340px; border-top: 1px solid #232323; border-bottom: 1px solid #232323; }
 
-        .icon { width: 30px; height: 30px; position: absolute; left: 9px; top: 20px; background: #df9bb8; border-radius: 50%; overflow: hidden; }
+        .icon { width: 30px; height: 30px; position: absolute; left: 9px; top: 13px; background: #df9bb8; border-radius: 50%; overflow: hidden; }
         .icon img { width: 30px; height: 30px; }
-        .twu { width: 190px; height: 20px; position: absolute; left: 49px; top: 16px; display: flex; align-items: center; font-size: 11px; color:#bebebe; font-family: poppins; }
+        .twu { width: 190px; height: 20px; position: absolute; left: 49px; top: 7px; display: flex; align-items: center; font-size: 11px; color:#bebebe; font-family: poppins; }
 
-        .bookm { width: 20px; height: 20px; position: absolute; top: 8px; right: 8px; text-align: right; font-size: 15px; color: #df9bb8; }
+        .bookm { width: 20px; height: 20px; position: absolute; top: 6px; right: 6px; text-align: right; font-size: 15px; color: #df9bb8; }
 
-        .sides { width: 240px; height: 50px; position: absolute; bottom: 14px; right: 30px; font-size: 11px; color:#bebebe; line-height: 100%; }
+        .sides { width: 240px; height: 65px; position: absolute; bottom: 26px; right: 30px; font-size: 10.5px; color:#bebebe; line-height: 100%; }
 
         .title { width: 320px; height: 50px; position: absolute; left: 0; top: 15px; font-family: poppins; font-weight: 800; color: #0f0e0e; font-size: 32px; letter-spacing: -3px; text-transform: none; display: flex; align-items: center; justify-content: center; }
         .lowbar { width: 100%; height: 15px; position: absolute; bottom: 3px; left: 0; display: flex; align-items: center; justify-content: center; z-index: 99; }
