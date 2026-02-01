@@ -1,3 +1,19 @@
+.heart-fall {
+            position: fixed;
+            top: -10%;
+            color: #df9bb8;
+            font-size: 20px;
+            user-select: none;
+            z-index: -1;
+            animation: fall linear forwards;
+        }
+
+        @keyframes fall {
+            to {
+                transform: translateY(110vh) rotate(360deg);
+            }
+        }
+
 html, body {
     cursor: url('https://maguro.carrd.co/assets/images/gallery14/2d238e11_original.gif'), auto !important;
 }
